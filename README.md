@@ -1,1 +1,1 @@
-current working directory
+Display the current list
