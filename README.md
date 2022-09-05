@@ -1,1 +1,1 @@
-Display the current list
+print working directory
