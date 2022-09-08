@@ -1,1 +1,1 @@
-no place like home
+changing working directory to user home directory
